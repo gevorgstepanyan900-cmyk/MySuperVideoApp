@@ -6,4 +6,10 @@
 
   android.allowBackup="true"
   android.label="MySuperVideo"
-  
+  android.theme="@style/Theme.AppCompat.light.DarkActionBar">
+
+  <activity
+    android:name=".MainActivity"
+    android:exported="true"
+    <intentr-filter>
+      
