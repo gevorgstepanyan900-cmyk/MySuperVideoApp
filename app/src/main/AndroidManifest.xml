@@ -11,7 +11,7 @@
   <activity
     android:name=".MainActivity"
     android:exported="true"
-    <intentr-filter>
+    <intent-filter>
       <action android:name="android.intent..action.MAIN" />
       <category android:name="intent.category.LAUNCHER" />
     </intent-filter>
